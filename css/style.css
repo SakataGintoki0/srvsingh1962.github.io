@@ -214,6 +214,18 @@ figure {
             text-decoration: none;
             outline: none;
             color: #2c98f0; }
+.projectbox{
+  padding: auto;
+}
+.split {
+  height: 100%;
+  width: 50%;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  overflow-x: hidden;
+  padding-top: 20px;
+}
 
 .container-wrap {
   max-width: 1170px;
@@ -739,6 +751,22 @@ body.offcanvas {
   box-shadow: none;
   background: #f2f3f7;
   overflow: visible; }
+  .progress.color-1 {
+    background: #2c98f0; }
+  .progress.color-2 {
+    background: #ec5453; }
+  .progress.color-3 {
+    background: #f9bf3f; }
+  .progress.color-4 {
+    background: #a84cb8; }
+  .progress.color-5 {
+    background: #2fa499; }
+  .progress.color-6 {
+    background: #4054b2; }
+  .progress.color-7 {
+    background: #ab98fd; }
+  .progress.color-8 {
+    background: #af0606; }
 
 .progress-bar {
   background: #2c98f0;
