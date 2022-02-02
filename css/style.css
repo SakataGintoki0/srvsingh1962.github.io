@@ -954,6 +954,8 @@ body.offcanvas {
     .work-menu span a.active {
       color: #2c98f0; }
 
+
+
 .project {
   background-size: cover;
   background-position: center center;
@@ -970,7 +972,7 @@ body.offcanvas {
     left: 0;
     right: 0;
     background: #2c98f0;
-    opacity: 0;
+    opacity: 1;
     -webkit-transition: 0.3s;
     -o-transition: 0.3s;
     transition: 0.3s; }
