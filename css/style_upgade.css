@@ -8,7 +8,7 @@
         grid-gap: 30px;
         
         border: 1px #e6e6e6 solid !important;
-        border-radius: 2px;
+        border-radius: 10px;
     }
     .project_section{
         display: grid;
@@ -43,7 +43,7 @@
         grid-gap: 30px;
         
         border: 1px #e6e6e6 solid !important;
-        border-radius: 2px;
+        border-radius: 5px;
     }
     .card_01 iframe{
         margin: auto;
